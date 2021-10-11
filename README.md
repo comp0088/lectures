@@ -19,6 +19,19 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 * [Slides (PDF, 22.6MB)](1_Introduction.pdf)
 
 
+### Week 2 (11-15 October 2021)
+
+* [2.1: Linear Models Introduction (5:01)](https://mediacentral.ucl.ac.uk/Play/69486)
+* [2.2: "Ordinary Least Squares" Regression, part one (15:41)](https://mediacentral.ucl.ac.uk/Play/69489)
+* [2.3: "Ordinary Least Squares" Regression, part two (12:03)](https://mediacentral.ucl.ac.uk/Play/69490)
+* [2.4: "Basis Expansion (10:03)](https://mediacentral.ucl.ac.uk/Play/69617)
+* [2.5: "Overfitting & Regularisation (13:29)](https://mediacentral.ucl.ac.uk/Play/69621)
+* [2.6: Linear Classifiers -- Logistic Regression (25:43)](https://mediacentral.ucl.ac.uk/Play/69622)
+* [2.7: Gradient Descent (10:54)](https://mediacentral.ucl.ac.uk/Play/69623)
+* [2.8: Multiclass Problems (9:26)](https://mediacentral.ucl.ac.uk/Play/69625)
+* [Slides (PDF, 12MB)](2_Linear_Models.pdf)
+
+
 ## Feedback
 
 Please post questions and comments to the [COMP0088 Moodle forum](https://moodle.ucl.ac.uk/mod/forum/view.php?id=3080410) or raise them during the Tuesday afternoon Q+A sessions.
