@@ -32,6 +32,17 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 * [Slides (PDF, 12MB)](2_Linear_Models.pdf)
 
 
+### Week 3 (18-22 October 2021)
+
+* [3.1: Non What? (5:41)](https://mediacentral.ucl.ac.uk/Play/70497)
+* [3.2: k-Nearest Neighbours (7:13)](https://mediacentral.ucl.ac.uk/Play/70499)
+* [3.3: Decision Treest (13:52)](https://mediacentral.ucl.ac.uk/Play/70501)
+* [3.4: Ensembles & Random Forests(11:49)](https://mediacentral.ucl.ac.uk/Play/70503)
+* [3.5: AdaBoost (19:56)](https://mediacentral.ucl.ac.uk/Play/70508)
+* [Slides (PDF, 12MB)](3_Nonparametric_Models.pdf)
+
+
+
 ## Feedback
 
 Please post questions and comments to the [COMP0088 Moodle forum](https://moodle.ucl.ac.uk/mod/forum/view.php?id=3080410) or raise them during the Tuesday afternoon Q+A sessions.
