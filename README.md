@@ -39,7 +39,7 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 * [3.3: Decision Treest (13:52)](https://mediacentral.ucl.ac.uk/Play/70501)
 * [3.4: Ensembles & Random Forests(11:49)](https://mediacentral.ucl.ac.uk/Play/70503)
 * [3.5: AdaBoost (19:56)](https://mediacentral.ucl.ac.uk/Play/70508)
-* [Slides (PDF, 12MB)](3_Nonparametric_Models.pdf)
+* [Slides (PDF, 5.4MB)](3_Nonparametric_Models.pdf)
 
 
 
