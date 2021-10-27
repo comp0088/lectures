@@ -42,6 +42,16 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 * [Slides (PDF, 5.4MB)](3_Nonparametric_Models.pdf)
 
 
+### Week 4 (25-29 October 2021)
+
+* [4.1: The Story So Far (4:32))](https://mediacentral.ucl.ac.uk/Play/73069)
+* [4.2: Perceptrons (8:56)](https://mediacentral.ucl.ac.uk/Play/73072)
+* [4.3: Optimal Hard Margin (19:30)](https://mediacentral.ucl.ac.uk/Play/73076)
+* [4.4: Soft Margin (9:42)](https://mediacentral.ucl.ac.uk/Play/73364)
+* [4.5: The Kernel Trick (13:29)](https://mediacentral.ucl.ac.uk/Play/73367)
+* [4.6: Support Vector Machines (11:58)](https://mediacentral.ucl.ac.uk/Play/73372)
+* [Slides (PDF, 12.5MB)](4_Linear_Models_Revisited.pdf)
+
 
 ## Feedback
 
