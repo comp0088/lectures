@@ -55,4 +55,4 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 
 ## Feedback
 
-Please post questions and comments to the [COMP0088 Moodle forum](https://moodle.ucl.ac.uk/mod/forum/view.php?id=3080410) or raise them during the Tuesday afternoon Q+A sessions.
+Please post questions and comments to the [COMP0088 Moodle forum](https://moodle.ucl.ac.uk/mod/hsuforum/view.php?id=3184621) or raise them during the Tuesday afternoon Q+A sessions.
