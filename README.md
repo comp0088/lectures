@@ -52,6 +52,14 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 * [4.6: Support Vector Machines (11:58)](https://mediacentral.ucl.ac.uk/Play/73372)
 * [Slides (PDF, 12.5MB)](4_Linear_Models_Revisited.pdf)
 
+### Week 5 (1-5 November 2021)
+
+* [5.1: Neurons for Beginners (8:45))](https://mediacentral.ucl.ac.uk/Play/75329)
+* [5.2: Multi-Layer Perceptrons (11:00)](https://mediacentral.ucl.ac.uk/Play/75331)
+* [5.3: Backpropagation (28:42)](https://mediacentral.ucl.ac.uk/Play/75337)
+* [5.4: Activation & Initialisation (12:22)](https://mediacentral.ucl.ac.uk/Play/75333)
+* [Slides (PDF, 8MB)](5_Neural_Networks.pdf)
+
 
 ## Feedback
 
