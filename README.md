@@ -43,10 +43,20 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTi4R1vMW7v3wnGv9WpVlDu0)
 * [Slides (PDF, 8MB)](6_More_Neural_Networks.pdf)
 
-### Week 7: Neural Networks (22-26 November 2021)
+### Week 7: Clustering & Dimensionality Reduction (22-26 November 2021)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjvWHRwh-i-7K5vn4QM1mb6)
 * [Slides (PDF, 8MB)](7_Clustering.pdf)
+
+### Week 8: Mixture Models & Expectation-Maximisation (29 November-3 December 2021)
+
+* [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTilTWl32KdlUCWkHsGdRjGk)
+* [Slides (PDF, 8MB)](8_Mixture_Models.pdf)
+
+### Week 9: Deep Learning Applications (6-10 December 2021)
+
+* [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjgFAJsfjJEAbpOxzmg2xqF)
+* [Slides (PDF, 8MB)](9_Deep_Learning_Applications.pdf)
 
 
 ## Feedback
