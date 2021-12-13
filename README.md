@@ -58,6 +58,13 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjgFAJsfjJEAbpOxzmg2xqF)
 * [Slides (PDF, 8MB)](9_Deep_Learning_Applications.pdf)
 
+### Week 10: Fun & Games (13-17 December 2021)
+
+* [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTh_7PDmN_cx3n2FbdaK0ajr)
+* [Slides (PDF, 8MB)](10_Fun_and_Games.pdf)
+
+
+
 
 ## Feedback
 
