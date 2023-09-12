@@ -1,19 +1,20 @@
 # Lectures for COMP0088 Introduction to Machine Learning
 
-This repository contains lecture materials for the [COMP0088 Introduction to Machine Learning](https://moodle.ucl.ac.uk/course/view.php?id=1442) module for taught MSc students at UCL, delivered in Autumn 2021.
+This repository contains lecture materials for the [COMP0088 Introduction to Machine Learning](https://moodle.ucl.ac.uk/course/view.php?id=33722) module for taught MSc students at UCL, delivered in Autumn 2023.
 
 **Slides and video links for each week will be uploaded on the Friday before the week to which they apply.**
 
-Lectures are now hosted on the [COMP0088 YouTube channel](https://www.youtube.com/channel/UCro89CYRFPJaNppYFuBqoIA).
+Pre-recorded lectures are hosted on the [COMP0088 YouTube channel](https://www.youtube.com/channel/UCro89CYRFPJaNppYFuBqoIA).
 
-Don't forget to check out the [labs](https://github.com/comp0088/labs) repository for the weekly coding exercises.
+Don't forget to check out the [colab](https://github.com/comp0088/colab) repository for the weekly coding exercises.
 
 
-### Week 1: Introduction (4-8 October 2021)
+### Week 1: Introduction (2-6 October 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTiblmEQ_vfn2rHKylX76n4S)
-* [Slides (PDF, 22.6MB)](1_Introduction.pdf)
+* [Slides (PDF, 23.5MB)](1_Introduction.pdf)
 
+<!--
 
 ### Week 2: Linear Models (11-15 October 2021)
 
@@ -64,8 +65,8 @@ Don't forget to check out the [labs](https://github.com/comp0088/labs) repositor
 * [Slides (PDF, 8MB)](10_Fun_and_Games.pdf)
 
 
-
+-->
 
 ## Feedback
 
-Please post questions and comments to the [COMP0088 Moodle forum](https://moodle.ucl.ac.uk/mod/hsuforum/view.php?id=3184621) or raise them during the Tuesday afternoon Q+A sessions.
+Please post questions and comments to the [COMP0088 Moodle forum](https://moodle.ucl.ac.uk/mod/hsuforum/view.php?id=4987096) or raise them during the Friday labs and lectures.
