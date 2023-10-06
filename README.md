@@ -14,13 +14,13 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTiblmEQ_vfn2rHKylX76n4S)
 * [Slides (PDF, 23.5MB)](1_Introduction.pdf)
 
-<!--
 
-### Week 2: Linear Models (11-15 October 2021)
+### Week 2: Linear Models (9-13 October 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjrxDGBExmcbqM-g_l4kPtE)
-* [Slides (PDF, 12MB)](2_Linear_Models.pdf)
+* [Slides (PDF, 12.2MB)](2_Linear_Models.pdf)
 
+<!--
 
 ### Week 3: Non-Parametric Models (18-22 October 2021)
 
