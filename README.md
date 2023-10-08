@@ -13,6 +13,7 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTiblmEQ_vfn2rHKylX76n4S)
 * [Slides (PDF, 23.5MB)](1_Introduction.pdf)
+* [Recap lecture slides (PDF, 22.3MB)](1_Recap.pdf)
 
 
 ### Week 2: Linear Models (9-13 October 2023)
