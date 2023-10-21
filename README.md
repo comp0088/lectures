@@ -23,17 +23,19 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 * [Recap lecture slides (PDF, 8.5MB)](2_Recap.pdf)
 
 
-### Week 3: Non-Parametric Models (18-22 October 2021)
+### Week 3: Non-Parametric Models (16-20 October 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTh3DiWOlVUpwsuC58CZS4gL)
 * [Slides (PDF, 5.4MB)](3_Nonparametric_Models.pdf)
+* [Recap lecture slides (PDF, 18.9MB)](3_Recap.pdf)
 
-<!--
 
-### Week 4: Linear Models Revisited (25-29 October 2021)
+### Week 4: Linear Models Revisited (23-27 October 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTgWue6bo7f7ubRhbnIViSIz)
 * [Slides (PDF, 12.5MB)](4_Linear_Models_Revisited.pdf)
+
+<!--
 
 ### Week 5: Neural Networks (1-5 November 2021)
 
