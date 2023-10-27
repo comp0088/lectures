@@ -35,13 +35,13 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTgWue6bo7f7ubRhbnIViSIz)
 * [Slides (PDF, 12.5MB)](4_Linear_Models_Revisited.pdf)
 
-<!--
 
-### Week 5: Neural Networks (1-5 November 2021)
+### Week 5: Neural Networks (30 October-3 November 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjvD-kNafJVcYVYOWFfhb0B)
 * [Slides (PDF, 8MB)](5_Neural_Networks.pdf)
 
+<!--
 
 ### Week 6: More Neural Networks (15-19 November 2021)
 
