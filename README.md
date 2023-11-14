@@ -44,7 +44,7 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 * [Recap lecture slides (PDF, 11.8MB)](5_Recap.pdf)
 
 
-### Week 6: More Neural Networks (15-19 November 2021)
+### Week 6: More Neural Networks (13-17 November 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTi4R1vMW7v3wnGv9WpVlDu0)
 * [Slides (PDF, 8MB)](6_More_Neural_Networks.pdf)
