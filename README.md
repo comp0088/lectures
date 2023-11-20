@@ -47,14 +47,16 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 ### Week 6: More Neural Networks (13-17 November 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTi4R1vMW7v3wnGv9WpVlDu0)
-* [Slides (PDF, 8MB)](6_More_Neural_Networks.pdf)
+* [Slides (PDF, 33.2MB)](6_More_Neural_Networks.pdf)
+* [Recap lecture slides (PDF, 11.8MB)](6_Recap.pdf)
 
-<!--
 
-### Week 7: Clustering & Dimensionality Reduction (22-26 November 2021)
+### Week 7: Clustering & Dimensionality Reduction (20-24 November 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjvWHRwh-i-7K5vn4QM1mb6)
-* [Slides (PDF, 8MB)](7_Clustering.pdf)
+* [Slides (PDF, 6.1MB)](7_Clustering.pdf)
+
+<!--
 
 ### Week 8: Mixture Models & Expectation-Maximisation (29 November-3 December 2021)
 
