@@ -47,26 +47,29 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 ### Week 6: More Neural Networks (13-17 November 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTi4R1vMW7v3wnGv9WpVlDu0)
-* [Slides (PDF, 33.2MB)](6_More_Neural_Networks.pdf)
-* [Recap lecture slides (PDF, 11.8MB)](6_Recap.pdf)
+* [Slides (PDF, 10.6MB)](6_More_Neural_Networks.pdf)
+* [Recap lecture slides (PDF, 33.2MB)](6_Recap.pdf)
 
 
 ### Week 7: Clustering & Dimensionality Reduction (20-24 November 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjvWHRwh-i-7K5vn4QM1mb6)
 * [Slides (PDF, 6.1MB)](7_Clustering.pdf)
+* [Recap lecture slides (PDF, 16.1MB)](7_Recap.pdf)
 
-<!--
 
-### Week 8: Mixture Models & Expectation-Maximisation (29 November-3 December 2021)
+### Week 8: Mixture Models & Expectation-Maximisation (27 November-1 December 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTilTWl32KdlUCWkHsGdRjGk)
-* [Slides (PDF, 8MB)](8_Mixture_Models.pdf)
+* [Slides (PDF, 2.6MB)](8_Mixture_Models.pdf)
+* [Recap lecture slides (PDF, 53.6MB)](8_Recap.pdf)
 
-### Week 9: Deep Learning Applications (6-10 December 2021)
+### Week 9: Deep Learning Applications (4-8 December 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjgFAJsfjJEAbpOxzmg2xqF)
-* [Slides (PDF, 8MB)](9_Deep_Learning_Applications.pdf)
+* [Slides (PDF, 28MB)](9_Deep_Learning_Applications.pdf)
+
+<!-- 
 
 ### Week 10: Fun & Games (13-17 December 2021)
 
