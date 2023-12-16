@@ -2,8 +2,6 @@
 
 This repository contains lecture materials for the [COMP0088 Introduction to Machine Learning](https://moodle.ucl.ac.uk/course/view.php?id=33722) module for taught MSc students at UCL, delivered in Autumn 2023.
 
-**Slides and video links for each week will be uploaded on the Friday before the week to which they apply.**
-
 Pre-recorded lectures are hosted on the [COMP0088 YouTube channel](https://www.youtube.com/channel/UCro89CYRFPJaNppYFuBqoIA).
 
 Don't forget to check out the [colab](https://github.com/comp0088/colab) repository for the weekly coding exercises.
