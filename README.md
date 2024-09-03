@@ -1,16 +1,18 @@
 # Lectures for COMP0088 Introduction to Machine Learning
 
-This repository contains lecture materials for the [COMP0088 Introduction to Machine Learning](https://moodle.ucl.ac.uk/course/view.php?id=33722) module for taught MSc students at UCL, delivered in Autumn 2023.
+This repository contains lecture materials for the [COMP0088 Introduction to Machine Learning](https://moodle.ucl.ac.uk/course/view.php?id=41623) module for taught MSc students at UCL, delivered in Autumn 2024.
 
 Pre-recorded lectures are hosted on the [COMP0088 YouTube channel](https://www.youtube.com/channel/UCro89CYRFPJaNppYFuBqoIA).
 
 Don't forget to check out the [colab](https://github.com/comp0088/colab) repository for the weekly coding exercises.
 
 
-### Week 1: Introduction (2-6 October 2023)
+### Week 1: Introduction (3 September-4 October 2024)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTiblmEQ_vfn2rHKylX76n4S)
 * [Slides (PDF, 23.5MB)](1_Introduction.pdf)
+
+<!--
 * [Recap lecture slides (PDF, 22.3MB)](1_Recap.pdf)
 
 
@@ -74,8 +76,8 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTh_7PDmN_cx3n2FbdaK0ajr)
 * [Slides (PDF, 7.1MB)](10_Fun_and_Games.pdf)
 * [Recap lecture slides (PDF, 32.3MB)](10_Recap.pdf)
-
+-->
 
 ## Feedback
 
-Please post questions and comments to the [COMP0088 Moodle forum](https://moodle.ucl.ac.uk/mod/hsuforum/view.php?id=4987096) or raise them during the Friday labs and lectures.
+Please post questions and comments to the [COMP0088 Moodle forum](https://moodle.ucl.ac.uk/mod/hsuforum/view.php?id=6115887) or raise them during the Friday labs and lectures.
