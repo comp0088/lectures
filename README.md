@@ -7,7 +7,7 @@ Pre-recorded lectures are hosted on the [COMP0088 YouTube channel](https://www.y
 Don't forget to check out the [colab](https://github.com/comp0088/colab) repository for the weekly coding exercises.
 
 
-### Week 1: Introduction (3 September-4 October 2024)
+### Week 1: Introduction (30 September-4 October 2024)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTiblmEQ_vfn2rHKylX76n4S)
 * [Slides (PDF, 23.5MB)](1_Introduction.pdf)
