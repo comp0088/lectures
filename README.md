@@ -38,7 +38,7 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 -->
 
-### Week 5: Neural Networks (30 October-3 November 2023)
+### Week 5: Neural Networks (28 October-1 November 2024)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjvD-kNafJVcYVYOWFfhb0B)
 * [Slides (PDF, 8MB)](5_Neural_Networks.pdf)
