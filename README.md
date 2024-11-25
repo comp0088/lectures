@@ -52,15 +52,15 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjvWHRwh-i-7K5vn4QM1mb6)
 * [Slides (PDF, 6.1MB)](7_Clustering.pdf)
-
-<!--
-* [Recap lecture slides (PDF, 16.1MB)](7_Recap.pdf)
+* [Recap lecture slides (PDF, 16.7MB)](7_Recap.pdf)
 
 
 ### Week 8: Mixture Models & Expectation-Maximisation (27 November-1 December 2023)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTilTWl32KdlUCWkHsGdRjGk)
 * [Slides (PDF, 2.6MB)](8_Mixture_Models.pdf)
+
+<!--
 * [Recap lecture slides (PDF, 53.6MB)](8_Recap.pdf)
 
 ### Week 9: Deep Learning Applications (4-8 December 2023)
