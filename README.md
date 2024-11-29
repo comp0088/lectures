@@ -62,11 +62,14 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 <!--
 * [Recap lecture slides (PDF, 53.6MB)](8_Recap.pdf)
+-->
 
-### Week 9: Deep Learning Applications (4-8 December 2023)
+### Week 9: Deep Learning Applications (2-6 December 2024)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjgFAJsfjJEAbpOxzmg2xqF)
 * [Slides (PDF, 28MB)](9_Deep_Learning_Applications.pdf)
+
+<!--
 * [Recap lecture slides (PDF, 26MB)](9_Recap.pdf)
 
 
