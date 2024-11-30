@@ -59,10 +59,8 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTilTWl32KdlUCWkHsGdRjGk)
 * [Slides (PDF, 2.6MB)](8_Mixture_Models.pdf)
+* [Recap lecture slides (PDF, 53.5MB)](8_Recap.pdf)
 
-<!--
-* [Recap lecture slides (PDF, 53.6MB)](8_Recap.pdf)
--->
 
 ### Week 9: Deep Learning Applications (2-6 December 2024)
 
