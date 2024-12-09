@@ -55,7 +55,7 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 * [Recap lecture slides (PDF, 16.7MB)](7_Recap.pdf)
 
 
-### Week 8: Mixture Models & Expectation-Maximisation (27 November-1 December 2023)
+### Week 8: Mixture Models & Expectation-Maximisation (25-29 November 2024)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTilTWl32KdlUCWkHsGdRjGk)
 * [Slides (PDF, 2.6MB)](8_Mixture_Models.pdf)
