@@ -38,22 +38,22 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjvD-kNafJVcYVYOWFfhb0B)
 * [Slides (PDF, 8MB)](5_Neural_Networks.pdf)
-
-<!--
-* [Recap lecture slides (PDF, 11.8MB)](5_Recap.pdf)
+* [Recap lecture slides (PDF, 14.1MB)](5_Recap.pdf)
 
 
-### Week 6: More Neural Networks (11-15 November 2024)
+### Week 6: More Neural Networks (10-14 November 2025)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTi4R1vMW7v3wnGv9WpVlDu0)
-* [Slides (PDF, 10.6MB)](6_More_Neural_Networks.pdf)
-* [Recap lecture slides (PDF, 30.2MB)](6_Recap.pdf)
+* [Slides (PDF, 10.9MB)](6_More_Neural_Networks.pdf)
+* [Recap lecture slides (PDF, 30.5MB)](6_Recap.pdf)
 
 
-### Week 7: Clustering & Dimensionality Reduction (18-22 November 2024)
+### Week 7: Clustering & Dimensionality Reduction (17-21 November 2025)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjvWHRwh-i-7K5vn4QM1mb6)
-* [Slides (PDF, 6.1MB)](7_Clustering.pdf)
+* [Slides (PDF, 7MB)](7_Clustering.pdf)
+
+<!--
 * [Recap lecture slides (PDF, 16.7MB)](7_Recap.pdf)
 
 
