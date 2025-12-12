@@ -66,18 +66,15 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjgFAJsfjJEAbpOxzmg2xqF)
 * [Slides (PDF, 28MB)](9_Deep_Learning_Applications.pdf)
-
-
-<!--
 * [Recap lecture slides (PDF, 30MB)](9_Recap.pdf)
 
 
-### Week 10: Fun & Games (9-13 December 2024)
+### Week 10: Fun & Games (8-12 December 2025)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTh_7PDmN_cx3n2FbdaK0ajr)
 * [Slides (PDF, 7.1MB)](10_Fun_and_Games.pdf)
 * [Recap lecture slides (PDF, 39MB)](10_Recap.pdf)
--->
+
 
 ## Feedback
 
