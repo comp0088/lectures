@@ -11,22 +11,23 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTiblmEQ_vfn2rHKylX76n4S)
 * [Slides (PDF, 18.7MB)](1_Introduction.pdf)
-
-<!--
 * [Recap lecture slides (PDF, 21.5MB)](1_Recap.pdf)
 
 
 ### Week 2: Linear Models (12–16 October 2026)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTjrxDGBExmcbqM-g_l4kPtE)
-* [Slides (PDF, 12.2MB)](2_Linear_Models.pdf)
-* [Recap lecture slides (PDF, 9.5MB)](2_Recap.pdf)
+* [Slides (PDF, 13.1MB)](2_Linear_Models.pdf)
+* [Recap lecture slides (PDF, 9.6MB)](2_Recap.pdf)
 
 
 ### Week 3: Non-Parametric Models (19–23 October 2026)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTh3DiWOlVUpwsuC58CZS4gL)
 * [Slides (PDF, 5.6MB)](3_Nonparametric_Models.pdf)
+
+<!--
+
 * [Recap lecture slides (PDF, 19.8MB)](3_Recap.pdf)
 
 ### Week 4: Linear Models Revisited (26–30 October 2026)
