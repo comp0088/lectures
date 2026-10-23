@@ -25,15 +25,14 @@ Don't forget to check out the [colab](https://github.com/comp0088/colab) reposit
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTh3DiWOlVUpwsuC58CZS4gL)
 * [Slides (PDF, 5.6MB)](3_Nonparametric_Models.pdf)
-
-<!--
-
 * [Recap lecture slides (PDF, 19.8MB)](3_Recap.pdf)
 
 ### Week 4: Linear Models Revisited (26–30 October 2026)
 
 * [Lectures](https://www.youtube.com/playlist?list=PLBvN5K10PbTgWue6bo7f7ubRhbnIViSIz)
 * [Slides (PDF, 13.3MB)](4_Linear_Models_Revisited.pdf)
+
+<!--
 * [Recap lecture slides (PDF, 12.4MB)](4_Recap.pdf)
 
 
